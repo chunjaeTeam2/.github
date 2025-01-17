@@ -52,10 +52,13 @@
 ## 📊 데이터 모델링
 
 ### 1. 개념적 모델링
-![개념적 모델링](https://prod-files-secure.s3.us-west-2.amazonaws.com/03086bcf-a036-4692-83ad-d1123cd1f0d0/27b849ac-8dc9-4bff-ab93-0ab8620c0f4d/image.png)
+![image](https://github.com/user-attachments/assets/5b47ff2d-699a-417f-8378-9b5a4a64b344)
+
 
 ### 2. 논리적 모델링
-![논리적 모델링](https://prod-files-secure.s3.us-west-2.amazonaws.com/03086bcf-a036-4692-83ad-d1123cd1f0d0/b0daec02-4d57-4c13-b298-e624e1a67569/image.png)
+![image](https://github.com/user-attachments/assets/cf92d6fc-67b1-4b8d-87b8-eddcd798f277)
+
 
 ### 3. 물리적 모델링
-![물리적 모델링](https://prod-files-secure.s3.us-west-2.amazonaws.com/03086bcf-a036-4692-83ad-d1123cd1f0d0/93a258ff-5feb-4f42-816e-84b336ab2064/image.png)
+![image](https://github.com/user-attachments/assets/7b005b57-19b3-4070-a2d1-047e383fa322)
+
